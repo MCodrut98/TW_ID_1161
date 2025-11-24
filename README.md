@@ -47,6 +47,3 @@ Conform cerințelor proiectului, dezvoltarea este structurată în 3 etape:
 
 3.  **Etapa 3: Aplicație Completă (Final)** - **Termen: 16.01.2026**
     * Interfața grafică (Front-end), integrarea cu Back-end-ul, autentificare funcțională și integrarea cu IGDB.
-
----
-*Proiect realizat pentru disciplina Dezvoltare Aplicații Web.*
