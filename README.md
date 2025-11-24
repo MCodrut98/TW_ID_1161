@@ -24,6 +24,6 @@ Proiect pentru materia Dezvoltare Aplicații Web. Aplicația permite utilizatori
 
 ## Etape proiect
 
-1.  **Etapa 1:** Descrierea proiectului.s
+1.  **Etapa 1:** Descrierea proiectului.
 2.  **Etapa 2:** Backend funcțional (REST API).
 3.  **Etapa 3:** Aplicația completă (Frontend + Backend).
