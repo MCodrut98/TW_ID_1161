@@ -2,6 +2,8 @@
 
 Aplicație web full‑stack pentru organizarea și gestionarea turneelor de esports, cu integrare IGDB pentru date despre jocuri.
 
+Aplicația: https://youtu.be/lOP9M8GKU80
+
 ## 🎮 Funcționalități
 
 - **Management utilizatori**: înregistrare, autentificare și profil
